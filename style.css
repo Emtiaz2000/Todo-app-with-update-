@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+  color: #d494e9 ;
+}
+table{
+    width:40rem;
+    padding:0rem .5rem;
+    text-align: center;
+    margin:auto;
+}
+.formContainer form{
+    margin:auto;
+    width:30%;
+}
+ td{
+    padding:.5rem 1rem;
+} 
+.hideBtn{
+    display: none !important;
+}
+.alertup{
+    width:40%;
+    margin:auto;
+}
+.allTodos{
+    border:1px solid #d494e9;
+    width:60%;
+    margin: auto;
+}
